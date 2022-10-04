@@ -2,27 +2,27 @@
 
 1. output hello world
 
-1. declare and init a variable
+2. declare and init a variable
 
-1. output the variable
+3. output the variable
 
-1. assign a random number to the variable
+4. assign a random number to the variable
 
-1. use an if statement to compare the random variable
+5. use an if statement to compare the random variable
 
-1. add an else to the if
+6. add an else to the if
 
-1. put it in a function to keep things clean
+7. put it in a function to keep things clean
 
-1. use a loop to do it 5 times 
+8. use a loop to do it 5 times 
 
-1. get input from the user 
+9. get input from the user 
 
-1. make a get user input function 
+10. make a get user input function 
 
-1. sketch out an algorithm for the guessing game
+11. sketch out an algorithm for the guessing game
 
-1. make the game
+12. make the game
 
 ------------------
 
